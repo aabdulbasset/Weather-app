@@ -14,9 +14,7 @@ Uses Asynchronous requests with fetch api and chaining.
 ## Usage
 
 ```html
-npm install express
-npm install body-parser
-npm install cors
+npm install
 node server.js
 ```
 
@@ -24,8 +22,3 @@ node server.js
 ## Dependencies
 Node js
 
-Express
-
-body-parser
-
-cors
